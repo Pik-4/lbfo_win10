@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\DRIVERS\DriverDatabase\DriverPackages\mslbfoprovider.inf_amd64_f9d27a6b05ef21aa]
+"Version"=hex:ff,ff,09,00,00,00,00,00,74,e9,36,4d,25,e3,ce,11,bf,c1,08,00,2b,\
+  e1,03,18,00,80,8c,a3,c5,94,c6,01,01,00,7c,4f,00,00,0a,00,00,00,00,00,00,00,\
+  00,00
+"Provider"="Microsoft"
+"SignerScore"=dword:0d000003
+"FileSize"=hex(b):aa,0c,00,00,00,00,00,00
+@="mslbfoprovider.inf"

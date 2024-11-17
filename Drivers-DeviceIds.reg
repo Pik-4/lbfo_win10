@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\DRIVERS\DriverDatabase\DeviceIds\ms_lbfo]
+"mslbfoprovider.inf"=hex:01,ff,00,00

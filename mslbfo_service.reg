@@ -9,7 +9,7 @@ Windows Registry Editor Version 5.00
   72,00,69,00,76,00,65,00,72,00,73,00,5c,00,4d,00,73,00,4c,00,62,00,66,00,6f,\
   00,50,00,72,00,6f,00,76,00,69,00,64,00,65,00,72,00,2e,00,73,00,79,00,73,00,\
   00,00
-"Start"=dword:00000003
+"Start"=dword:00000001
 "Type"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MsLbfoProvider\Parameters]
